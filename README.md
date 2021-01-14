@@ -1,11 +1,12 @@
-
+Who am I
 - 📘 A Ph.D. student at Kyoto University 
 - ❤️ Mathematics
 - 🎻 Violin Player
 - 💻 Web System Developer
 - 📊 Interactive Data Visualization
 
-##### Tech stack
+Tech stack
+
 ![python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![js](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
