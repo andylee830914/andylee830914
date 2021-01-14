@@ -1,9 +1,9 @@
 Who am I
 - 📘 A Ph.D. student at Kyoto University 
-- ❤️ Mathematics
+- ❤️ Mathematics Lover
 - 🎻 Violin Player
 - 💻 Web System Developer
-- 📊 Interactive Data Visualization
+- 📊 Interactive Data Visualization Designer
 
 Tech stack
 
