@@ -1,5 +1,5 @@
 Who am I
-- 📘 A Ph.D. student at Kyoto University 
+- 📘 Kyoto University Doctor of Informatics 
 - ❤️ Mathematics Lover
 - 🎻 Violin Player
 - 💻 Web System Developer
