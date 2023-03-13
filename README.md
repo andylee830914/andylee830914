@@ -3,7 +3,6 @@ Who am I
 - ❤️ Mathematics Lover
 - 🎻 Violin Player
 - 💻 Web System Developer
-- 📊 Interactive Data Visualization Designer
 
 Tech stack
 
