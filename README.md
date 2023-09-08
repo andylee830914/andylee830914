@@ -1,8 +1,8 @@
-Who am I
+Who am I?
 - 📘 Kyoto University Doctor of Informatics 
-- ❤️ Mathematics Lover
-- 🎻 Violin Player
-- 💻 Web System Developer
+- ❤️ Mathematics enthusiast
+- 🎻 Violinist
+- 💻 Web system developer
 
 Tech stack
 
